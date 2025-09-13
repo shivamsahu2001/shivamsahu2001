@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Sahu  
 
-<!--
-**shivamsahu2001/shivamsahu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Aspiring Data Scientist | Data Analyst | Business Analyst | Machine Learning Enthusiast**  
 
-Here are some ideas to get you started:
+I am passionate about turning data into actionable insights and building innovative solutions using **Data Science, Machine Learning, and Business Analytics**. Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan 2025)** and continuously improving my skills in **SQL, Python, Tableau, Excel, and Machine Learning**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me  
+- 🎓 **B.Tech in Computer Science & Engineering** (LPU Graduate)  
+- 💻 Solved **300+ coding problems** across LeetCode, HackerRank, and CodeStudio  
+- 📊 Strong background in **Data Analytics, Visualization, and Business Intelligence**  
+- 🚀 Passionate about **Machine Learning, Data Science, and Business Analytics**  
+- 📍 Based in **Gurugram, India**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Programming & Query Languages**: Python, SQL  
+- **Data Visualization & BI Tools**: Tableau, Power BI, Excel  
+- **Machine Learning & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Other Tools**: Git, GitHub, JIRA, Agile Methodologies  
+
+---
+
+## 📌 Featured Projects  
+
+### 🎶 Spotify Data Analysis Using SQL  
+- Analyzed large Spotify dataset using **SQL** queries  
+- Extracted insights on user behavior, trends, and music preferences  
+- Showcased expertise in **data cleaning, querying, and reporting**  
+
+🔗 [View Project Repository](https://github.com/shivamsahu2001)  
+
+---
+
+## 📈 Coding Profiles  
+
+- 🧑‍💻 **LeetCode**: [shivamsahu2001](https://leetcode.com/u/shivamsahu2001)  
+- 🟢 **HackerRank**: [shivamsahu2001](https://www.hackerrank.com/profile/shivamsahu2001)  
+- 🎯 **CodeStudio**: [ShivamSahu5225](https://www.naukri.com/code360/profile/ShivamSahu5225)  
+- 💡 **GeeksforGeeks**: [shivamsahu2001](https://www.geeksforgeeks.org/user/shivamsahu2001)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shivamsahu2001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/shivamsahu2001" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
+<a href="https://x.com/shivamsahu2001" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/shivamsahu5225" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/shivam_sahu5225" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivamsahu2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsahu2001&theme=radical" alt="GitHub Streak" width="48%" />
+</p>  
+
+---
+
+✨ *Always eager to collaborate on Data Science and Machine Learning projects.*  
+📩 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shivamsahu2001) or [Email](mailto:shivamsahu2001@gmail.com)  
