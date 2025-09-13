@@ -1,17 +1,32 @@
-# 👋 Hi, I'm Shivam Sahu  
+<!-- Header Section -->
+<h1 align="left">👋 Hi, I'm Shivam Sahu</h1>
 
-🌟 **Aspiring Data Scientist | Data Analyst | Business Analyst | Machine Learning Enthusiast**  
+<table>
+<tr>
+<td width="60%">
+  
+🌟 <b>Aspiring Data Scientist | Data Analyst | Business Analyst | Machine Learning Enthusiast</b>  
 
-I am passionate about turning data into actionable insights and building innovative solutions using **Data Science, Machine Learning, and Business Analytics**. Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan 2025)** and continuously improving my skills in **SQL, Python, Tableau, Excel, and Machine Learning**.  
+I am passionate about turning data into actionable insights and building innovative solutions using **Data Science, Machine Learning, and Business Analytics**.  
+Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan 2025)** and continuously improving my skills in **SQL, Python, Tableau, Excel, and Machine Learning**.  
+
+</td>
+<td width="40%">
+  
+<img alt="Analytics" width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔹 About Me  
-- 🎓 **B.Tech in Computer Science & Engineering** (LPU Graduate)  
-- 💻 Solved **300+ coding problems** across LeetCode, HackerRank, and CodeStudio  
+- 🎓 **B.Tech in Computer Science & Engineering** (LPU Graduate 2024)  
+- 💻 Solved **500+ coding problems** across LeetCode, HackerRank, and CodeStudio  
 - 📊 Strong background in **Data Analytics, Visualization, and Business Intelligence**  
 - 🚀 Passionate about **Machine Learning, Data Science, and Business Analytics**  
-- 📍 Based in **Gurugram, India**  
+- 📍 Based in **Gurgram, India**  
 
 ---
 
@@ -59,11 +74,11 @@ I am passionate about turning data into actionable insights and building innovat
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivamsahu2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsahu2001&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamsahu2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsahu2001&theme=radical" alt="GitHub Streak" width="48%" />
 </p>  
 
 ---
 
 ✨ *Always eager to collaborate on Data Science and Machine Learning projects.*  
-📩 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shivamsahu2001) or [Email](mailto:shivamsahu2001@gmail.com)  
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/shivamsahu2001) or [Email](mailto:shivamsahu2001@gmail.com)  
