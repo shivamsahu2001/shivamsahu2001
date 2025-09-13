@@ -46,7 +46,7 @@ Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan
 - Extracted insights on user behavior, trends, and music preferences  
 - Showcased expertise in **data cleaning, querying, and reporting**  
 
-🔗 [View Project Repository](https://github.com/shivamsahu2001)  
+🔗 [View Project Repository](https://github.com/shivamsahu2001/Spotify_Data_Analysis_using_SQL)  
 
 ---
 
