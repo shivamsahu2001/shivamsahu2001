@@ -95,9 +95,14 @@ Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsahu2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsahu2001&theme=radical" alt="GitHub Streak" width="48%" />
-</p>  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsahu2001&theme=radical" 
+    alt="GitHub Streak Stats" 
+    width="48%" 
+  />
+</p>
+
+
 
 ---
 
