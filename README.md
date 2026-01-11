@@ -41,12 +41,33 @@ Currently, I’m working as a **Data Research Analyst at Collegedunia (since Jan
 
 ## 📌 Featured Projects  
 
+### 🏏 IPL Probability Prediction  
+- Developed a real-time IPL win probability prediction model using historical ball-by-ball data (74K+ match situations)  
+- Performed feature engineering on match dynamics such as remaining runs, balls, wickets, CRR, and RRR  
+- Built a Scikit-learn machine learning pipeline using One-Hot Encoding and Logistic Regression to ensure reliable probability estimation  
+- Deployed the trained model using Streamlit for interactive live match simulations and real-time predictions  
+
+🔗 [View Project Repository](https://github.com/shivamsahu2001/IPL-Probability-Prediction)  
+
+---
+
+### 🚗 Electric Vehicles Data Analysis  
+- Analyzed electric vehicle (EV) adoption trends using Excel and Tableau  
+- Created interactive dashboards to visualize EV growth, geographic distribution, and manufacturer dominance  
+- Utilized key KPIs such as total vehicle count, average electric range, and CAFV eligibility  
+- Designed visualizations including line charts, maps, bar charts, and treemaps  
+
+🔗 [View Project Repository](https://github.com/shivamsahu2001/Electric_Vehicles_Data_Analysis_Tableau)  
+
+---
+
 ### 🎶 Spotify Data Analysis Using SQL  
-- Analyzed large Spotify dataset using **SQL** queries  
+- Analyzed large Spotify dataset using SQL queries  
 - Extracted insights on user behavior, trends, and music preferences  
-- Showcased expertise in **data cleaning, querying, and reporting**  
+- Showcased expertise in data cleaning, querying, and reporting  
 
 🔗 [View Project Repository](https://github.com/shivamsahu2001/Spotify_Data_Analysis_using_SQL)  
+
 
 ---
 
